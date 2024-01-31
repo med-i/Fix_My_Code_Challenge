@@ -1,7 +1,14 @@
 #!/usr/bin/python3
+"""
+This module defines a Square class
+"""
 
 
 class square:
+    """
+    The Square class
+    """
+
     width = 0
     height = 0
 
